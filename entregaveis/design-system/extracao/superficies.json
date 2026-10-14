@@ -1,0 +1,150 @@
+[
+ {
+  "hex": "#ffffff",
+  "blocos": 5490,
+  "telas": [
+   "10.png",
+   "11.png",
+   "12.png",
+   "13.png",
+   "14.png",
+   "15.png",
+   "17.png",
+   "18.png",
+   "19.png",
+   "20.png",
+   "21.png",
+   "22.png",
+   "23.png",
+   "24.png",
+   "25.png",
+   "26.png",
+   "28.png",
+   "29.png",
+   "30.png",
+   "31.png",
+   "32.png",
+   "33.png",
+   "5.png",
+   "6.png",
+   "7.png",
+   "8.png",
+   "9.png",
+   "home.png"
+  ]
+ },
+ {
+  "hex": "#b2b2b2",
+  "blocos": 726,
+  "telas": [
+   "16.png",
+   "4.png"
+  ]
+ },
+ {
+  "hex": "#f8f8f8",
+  "blocos": 580,
+  "telas": [
+   "26.png",
+   "28.png"
+  ]
+ },
+ {
+  "hex": "#999999",
+  "blocos": 528,
+  "telas": [
+   "10.png",
+   "29.png",
+   "30.png",
+   "8.png"
+  ]
+ },
+ {
+  "hex": "#f2f2f2",
+  "blocos": 118,
+  "telas": [
+   "23.png"
+  ]
+ },
+ {
+  "hex": "#14171c",
+  "blocos": 103,
+  "telas": [
+   "27.png"
+  ]
+ },
+ {
+  "hex": "#2b2b2b",
+  "blocos": 94,
+  "telas": [
+   "17.png",
+   "32.png",
+   "33.png"
+  ]
+ },
+ {
+  "hex": "#f9f9f9",
+  "blocos": 91,
+  "telas": [
+   "16.png"
+  ]
+ },
+ {
+  "hex": "#f4f4f4",
+  "blocos": 82,
+  "telas": [
+   "home.png"
+  ]
+ },
+ {
+  "hex": "#d2d2d2",
+  "blocos": 41,
+  "telas": [
+   "19.png",
+   "20.png",
+   "22.png",
+   "32.png",
+   "9.png"
+  ]
+ },
+ {
+  "hex": "#ff5000",
+  "blocos": 33,
+  "telas": [
+   "11.png",
+   "12.png",
+   "26.png",
+   "33.png"
+  ]
+ },
+ {
+  "hex": "#f3f5f4",
+  "blocos": 29,
+  "telas": [
+   "home.png"
+  ]
+ },
+ {
+  "hex": "#929292",
+  "blocos": 8,
+  "telas": [
+   "16.png"
+  ]
+ },
+ {
+  "hex": "#6a6a6a",
+  "blocos": 8,
+  "telas": [
+   "17.png",
+   "32.png",
+   "33.png"
+  ]
+ },
+ {
+  "hex": "#fbfaf8",
+  "blocos": 2,
+  "telas": [
+   "31.png"
+  ]
+ }
+]

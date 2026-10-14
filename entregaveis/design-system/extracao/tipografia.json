@@ -1,0 +1,32 @@
+{
+ "escala_px_pt": 1.8804071246819338,
+ "cap_em": 0.7,
+ "elementos": {
+  "título da nav bar": {
+   "telas": 27,
+   "cap_px": 20.93,
+   "desvio_px": 0.62,
+   "corpo_pt": 15.9,
+   "incerteza_pt": 0.5
+  },
+  "título de tela (H1)": {
+   "telas": 23,
+   "cap_px": 22.68,
+   "desvio_px": 4.09,
+   "corpo_pt": 17.2,
+   "incerteza_pt": 3.1
+  },
+  "rótulo do botão primário": {
+   "telas": 11,
+   "cap_px": 20.21,
+   "desvio_px": 0.35,
+   "corpo_pt": 15.4,
+   "incerteza_pt": 0.3
+  },
+  "altura do botão primário": {
+   "telas": 11,
+   "pt": 48.2,
+   "incerteza_pt": 0.8
+  }
+ }
+}

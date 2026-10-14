@@ -1,0 +1,23 @@
+{
+ "altura": {
+  "px": 90.8,
+  "pt": 48.3,
+  "incerteza_pt": 0.8
+ },
+ "largura": {
+  "px": 661.2,
+  "pt": 351.6,
+  "incerteza_pt": 5.9
+ },
+ "margem_esq": {
+  "px": 38.8,
+  "pt": 20.7,
+  "incerteza_pt": 3.0
+ },
+ "raio": {
+  "px": 45.5,
+  "pt": 24.2,
+  "incerteza_pt": 0.4
+ },
+ "forma": "pílula (raio = metade da altura)"
+}

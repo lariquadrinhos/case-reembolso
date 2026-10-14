@@ -1,0 +1,452 @@
+{
+ "escala_px_por_pt": 1.8804071246819338,
+ "aparelho": "iPhone 14 Pro / 15 / 16 (393 x 852 pt)",
+ "total_px": 44033610,
+ "min_px_por_tela": 900,
+ "cromaticas": [
+  {
+   "hex": "#030c1d",
+   "px": 1875616,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#ff5000",
+   "px": 508636,
+   "telas": [
+    "11.png",
+    "12.png",
+    "14.png",
+    "15.png",
+    "18.png",
+    "21.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "31.png",
+    "33.png"
+   ]
+  },
+  {
+   "hex": "#0e1527",
+   "px": 242581,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#071d42",
+   "px": 113687,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#993000",
+   "px": 87906,
+   "telas": [
+    "29.png",
+    "30.png"
+   ]
+  },
+  {
+   "hex": "#121929",
+   "px": 79398,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#030b1e",
+   "px": 42148,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#001e64",
+   "px": 39838,
+   "telas": [
+    "13.png",
+    "24.png",
+    "6.png"
+   ]
+  },
+  {
+   "hex": "#040b1d",
+   "px": 36035,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#040d1e",
+   "px": 34679,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#f05223",
+   "px": 29105,
+   "telas": [
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#030c1b",
+   "px": 24485,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#1351b4",
+   "px": 22544,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#020b1c",
+   "px": 22038,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#fbf7ba",
+   "px": 21588,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#010d1d",
+   "px": 19864,
+   "telas": [
+    "doc gov.png"
+   ]
+  }
+ ],
+ "neutras": [
+  {
+   "hex": "#ffffff",
+   "px": 22358824,
+   "telas": [
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "28.png",
+    "29.png",
+    "30.png",
+    "31.png",
+    "32.png",
+    "33.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#999999",
+   "px": 2188536,
+   "telas": [
+    "10.png",
+    "29.png",
+    "30.png",
+    "8.png"
+   ]
+  },
+  {
+   "hex": "#b2b2b2",
+   "px": 1863953,
+   "telas": [
+    "16.png",
+    "4.png"
+   ]
+  },
+  {
+   "hex": "#f8f8f8",
+   "px": 1627818,
+   "telas": [
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "16.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "28.png",
+    "31.png",
+    "32.png",
+    "33.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#000000",
+   "px": 837028,
+   "telas": [
+    "doc gov.png"
+   ]
+  },
+  {
+   "hex": "#fefefe",
+   "px": 691094,
+   "telas": [
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "16.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "28.png",
+    "29.png",
+    "30.png",
+    "31.png",
+    "32.png",
+    "33.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#f4f4f4",
+   "px": 501524,
+   "telas": [
+    "11.png",
+    "13.png",
+    "14.png",
+    "18.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "26.png",
+    "33.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#2b2b2b",
+   "px": 481690,
+   "telas": [
+    "17.png",
+    "32.png",
+    "33.png",
+    "6.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#f9f9f9",
+   "px": 410975,
+   "telas": [
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "16.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "28.png",
+    "31.png",
+    "32.png",
+    "33.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#6a6a6a",
+   "px": 373586,
+   "telas": [
+    "17.png",
+    "32.png",
+    "33.png"
+   ]
+  },
+  {
+   "hex": "#f2f2f2",
+   "px": 342583,
+   "telas": [
+    "11.png",
+    "13.png",
+    "14.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "32.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#14171c",
+   "px": 316773,
+   "telas": [
+    "27.png"
+   ]
+  },
+  {
+   "hex": "#fdfdfd",
+   "px": 292991,
+   "telas": [
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "28.png",
+    "30.png",
+    "31.png",
+    "32.png",
+    "33.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#d2d2d2",
+   "px": 267112,
+   "telas": [
+    "19.png",
+    "20.png",
+    "22.png",
+    "32.png",
+    "9.png"
+   ]
+  },
+  {
+   "hex": "#fcfcfc",
+   "px": 218952,
+   "telas": [
+    "10.png",
+    "11.png",
+    "12.png",
+    "13.png",
+    "14.png",
+    "15.png",
+    "17.png",
+    "18.png",
+    "19.png",
+    "20.png",
+    "21.png",
+    "22.png",
+    "23.png",
+    "24.png",
+    "25.png",
+    "26.png",
+    "28.png",
+    "31.png",
+    "32.png",
+    "33.png",
+    "5.png",
+    "6.png",
+    "7.png",
+    "8.png",
+    "9.png",
+    "doc gov.png",
+    "home.png"
+   ]
+  },
+  {
+   "hex": "#141118",
+   "px": 200630,
+   "telas": [
+    "doc gov.png"
+   ]
+  }
+ ]
+}

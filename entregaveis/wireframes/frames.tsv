@@ -1,0 +1,45 @@
+33:5	00-quadro-completo	Página wireframes (quadro inteiro)
+112:2	01-o0-home	Tela O.0 · Home (ponto de entrada)
+112:56	02-o1-boas-vindas	Tela O.1 · Boas-vindas ao Reembolso
+113:2	03-o2a-confirma-conta	Tela O.2a · Confirmação dos dados bancários
+142:2	04-o2b-cadastra-conta	Tela O.2b · Cadastro dos dados bancários
+113:50	05-o3-termo	Tela O.3 · Termo de Ciência
+115:2	06-o4a-face-id	Tela O.4a · Identidade (Face ID)
+115:30	07-o4b-selfie	Tela O.4b · Identidade (selfie · fallback)
+115:63	08-o5-onboarding-concluido	Tela O.5 · Onboarding concluído
+85:2	09-tela1-inicio	Tela 1 · Início da solicitação
+97:2	10-tela2-captura	Tela 2 · Captura da nota fiscal
+110:2	11-tela2a-ocr	Tela 2A · Conferência dos campos (OCR)
+111:5	12-tela3-tratamento	Tela 3 · Detalhes do tratamento
+90:2	13-tela4-documentos	Tela 4 · Upload de documentos
+92:2	14-tela5-revisao	Tela 5 · Revisão dos dados
+92:69	15-tela6-confirmacao	Tela 6 · Confirmação de envio
+116:2	16-tela7-status	Tela 7 · Acompanhar status
+116:62	17-tela8-historico	Tela 8 · Histórico de solicitações
+138:2	18-sheetA-tutorial-govbr	Sheet A · Tutorial gov.br
+138:85	19-sheetB-exemplo-pedido-medico	Sheet B · Exemplo · pedido médico
+187:2	20-sheetB-exemplo-nota-fiscal	Sheet B · Exemplo · nota fiscal
+187:91	21-sheetB-exemplo-comprovante	Sheet B · Exemplo · comprovante
+138:170	22-sheetC-editar-conta	Sheet C · Editar conta bancária
+185:2	23-overlay-visualizador	Overlay · Visualizador de documento
+125:67	24-estado-home-primeiro-acesso	Estado · Home no primeiro acesso
+125:2	25-estado-tela1-sem-historico	Estado · Primeiro acesso (Tela 1 sem histórico)
+118:2	26-estado-loading-skeleton	Estado · Loading com skeleton
+118:47	27-estado-empty-state	Estado · Empty state (sem histórico)
+118:66	28-estado-erro-de-rede	Estado · Erro de rede
+185:23	29-estado-2-de-3-documentos	Estado · 2 de 3 documentos (Tela 4)
+182:2	30-estado-documentos-completos	Estado · Documentos completos (Tela 4)
+186:2	31-estado-retomada-rascunho	Estado · Retomada de rascunho (Tela 5)
+186:76	32-estado-preenchimento-manual	Estado · Preenchimento manual (Tela 2A vazia)
+131:2	33-erro-data-fora-do-prazo	Erro · Data fora do prazo (Tela 3)
+131:66	34-erro-campos-alerta-e-erro	Erro · Campos com alerta e erro (Tela 2A)
+134:2	35-erro-solicitacao-com-pendencia	Erro · Solicitação com pendência (Tela 7)
+135:2	36-tela2-camera	Tela 2 · Câmera (guia de enquadramento)
+135:27	37-estado-lendo-nota-fiscal	Estado · Lendo sua nota fiscal
+134:65	38-modal-retomar	Modal · Retomar de onde parou?
+195:2	39-tela9-detalhe-pago	Tela 9 · Detalhe da solicitação paga
+196:2	40-sheetD-filtrar-historico	Sheet D · Filtrar histórico
+197:2	41-sheetE-quem-fez-procedimento	Sheet E · Quem fez o procedimento?
+197:107	42-sheetF-buscar-banco	Sheet F · Buscar banco
+198:2	43-estado-protocolo-copiado	Estado · Protocolo copiado (Tela 6)
+199:2	44-sheetG-ajuda-da-etapa	Sheet G · Ajuda desta etapa

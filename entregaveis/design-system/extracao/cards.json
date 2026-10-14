@@ -1,0 +1,27 @@
+{
+ "raio": {
+  "n": 2,
+  "pt": 1.1,
+  "incerteza_pt": 0.0
+ },
+ "espaçamento entre cards": {
+  "n": 2,
+  "pt": 12.0,
+  "incerteza_pt": 0.3
+ },
+ "margem esquerda": {
+  "n": 6,
+  "pt": 28.1,
+  "incerteza_pt": 1.9
+ },
+ "espessura da borda": {
+  "n": 6,
+  "pt": 1.5,
+  "incerteza_pt": 0.2
+ },
+ "altura do card": {
+  "n": 3,
+  "pt": 113.1,
+  "incerteza_pt": 8.8
+ }
+}
